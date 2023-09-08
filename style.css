@@ -188,3 +188,10 @@ body{
     text-align: start;
     padding: 10px 0;
 }
+.pro-container{
+    display: flex;
+}
+.pro{
+    flex-direction: row;
+    
+}
